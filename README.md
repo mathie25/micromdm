@@ -28,6 +28,8 @@ The best place to get help is the `#micromdm` channel on the MacAdmins Slack tea
 
 Over the last year this project has gained a lot of interest from the community. We want to make it clear that at this point MicroMDM is a passion project, and is being developed by a [few fellow Mac Admins](https://github.com/micromdm/micromdm/graphs/contributors) on weekends and during conference hackathons. 
 
+Test 1-2-1-2
+
 It would be great to get a few more developers to contribute, but at this point, there are _more_ important tasks than knowing how to code. Here is how you can help: 
 
 - Read the documentation, install the tool and test MicroMDM.
